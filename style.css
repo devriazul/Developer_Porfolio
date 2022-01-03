@@ -7,3 +7,6 @@ h1{
 .orage-color{
     color: orange;
 }
+section{
+    display: flex;
+}
